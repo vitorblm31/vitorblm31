@@ -21,7 +21,7 @@ I thrive on transforming complex datasets into actionable insights using machine
 
 * [**European Soccer DB**](https://github.com/vitorblm31/european_soccer_db) — Full-stack analytics app with CRUD operations over 25k+ matches across 11 European leagues (2008–2016). Includes standings, player evolution charts and head-to-head comparisons. *(Python, PostgreSQL, Streamlit)* — NLP classifier that distinguishes real from fake news articles using text preprocessing and machine learning. *(Python, Scikit-learn, NLP)*
 
-🔗 Let's connect!
+🔗 **Let's connect!**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vítor%20Batista-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v%C3%ADtor-batista-21a851340/)
 [![Gmail](https://img.shields.io/badge/Gmail-vitorblm31@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:vitorblm31@gmail.com)
 
