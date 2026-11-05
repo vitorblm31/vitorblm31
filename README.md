@@ -1,8 +1,7 @@
-## Hi, I'm Vítor Batista👋
----
-**I'm a Data Science for Business student at UFPB, focusing on data engineering, deep learning, and transforming complex data into business insights."**
+## Hi, I'm Vítor Batista 👋
 
-I thrive on transforming complex datasets into actionable insights using machine learning, robust data pipelines, and AI agents. My focus is always on bridging the gap between advanced technical solutions and tangible business value.
+*I'm a Data Science for Business student at UFPB, focusing on data engineering, deep learning, and AI agents. I thrive on building robust data pipelines and machine learning models to bridge the gap between advanced technical solutions and tangible business value.* 
+
 ---
 🖥️ What I work with:
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -15,11 +14,11 @@ I thrive on transforming complex datasets into actionable insights using machine
 ---
 ⚙️**Some projects**:
 
-* [**EstoqueFácil**](https://github.com/vitorblm31/EstoqueFacil) — Interactive inventory management app leveraging Object-Oriented Design and graph traversal algorithms (BFS & DFS) for warehouse routing. Includes dynamic price visualizations, memory-based repositories, and a simulated checkout workflow. *(Python, Streamlit, Pandas)*
+* [CreditShield](https://github.com/vitorblm31/creditshield) — Deep Learning credit risk classification app using a Multi-Layer Perceptron (MLP) trained on the German Credit Data dataset. Deployed with an interactive interface. *(Python, PyTorch, Streamlit)*
 
 * [**Fake News Detector**](https://github.com/vitorblm31/fake-news-detector-) — NLP classifier that distinguishes real from fake news articles using text preprocessing and machine learning. *(Python, Scikit-learn, NLP)*
 
-* [**European Soccer DB**](https://github.com/vitorblm31/european_soccer_db) — Full-stack analytics app with CRUD operations over 25k+ matches across 11 European leagues (2008–2016). Includes standings, player evolution charts and head-to-head comparisons. *(Python, PostgreSQL, Streamlit)*
+* [NFL Draft Scouting](https://github.com/vitorblm31/college_nfl) — End-to-end web platform to filter and analyze NFL Combine metrics and player statistics. *(Python, FastAPI, SQLite, HTML/JS)*
   
 🔗 **Let's connect!**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vítor%20Batista-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v%C3%ADtor-batista-21a851340/)
