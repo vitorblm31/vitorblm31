@@ -1,6 +1,6 @@
 ## Hi, I'm Vítor Batista👋
 ---
-**I'm a Data Science for Business student at UFPB and member of LMF(Financial Market League) at the university, where I develop AI projects using real data.**
+**I'm a Data Science for Business student at UFPB, focusing on data engineering, deep learning, and transforming complex data into business insights."**
 
 I thrive on transforming complex datasets into actionable insights using machine learning, robust data pipelines, and AI agents. My focus is always on bridging the gap between advanced technical solutions and tangible business value.
 ---
