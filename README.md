@@ -13,6 +13,8 @@
 * [**Fake News Detector**](https://github.com/vitorblm31/fake-news-detector-) — NLP classifier that distinguishes real from fake news articles using text preprocessing and machine learning. *(Python, Scikit-learn, NLP)*
 
 * [NFL Draft Scouting](https://github.com/vitorblm31/college_nfl) — End-to-end web platform to filter and analyze NFL Combine metrics and player statistics. *(Python, FastAPI, SQLite, HTML/JS)*
+
+* * [Sim Premier](https://github.com/vitorblm31/sim_premier) — Data-driven analytics and simulation tool focused on the English Premier League, bridging football metrics with statistical modeling. *(Python, Pandas, Streamlit)*
   
 🔗 **Let's connect!**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vítor%20Batista-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v%C3%ADtor-batista-21a851340/)
